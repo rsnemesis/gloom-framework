@@ -1,1 +1,1 @@
-# [Gloom Framework]
+# Gloom Framework
